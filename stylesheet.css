@@ -1,0 +1,50 @@
+* {
+    border: 1px dashed #3a5fcd;
+}
+
+h1 {
+
+	padding-bottom: 25px;
+	text-decoration:underline;
+
+}
+
+h2 {
+
+	padding-top: 25px;
+	padding-bottom: 25px;
+
+	}
+
+	h4 {
+	
+	padding-top: 25px;
+	padding-bottom: 25px;
+
+
+h3 {
+	padding-top: 25px;
+	padding-bottom: 55px;
+
+
+}
+
+#header {
+	position: relative;
+	top: -10px;
+	border-top-left-radius: 25px;
+	border-top-right-radius: 15px;
+}
+
+ul{
+	list-style-type: none;
+	position: fixed;
+	margin: -40px;
+}
+
+li {
+	display: inline;
+	border: 5px solid #000000;
+	color: #ffffff;
+	padding: 20px;
+}
